@@ -22,9 +22,10 @@ Feel free to create PRs so we can contribute to this list. **Make sure you add r
 | Job security? Learn the technology of the future? | The developer feel good by developing in both platforms |
 |  | UX still won't feel 100% native |
 |  | Some of the reasons to aboned ReactNative are still might appear with Flutter [2] |
-|  | Like ReactNative, we will still need to wait for every brand new mobile ability to be available via Dart |
+|  | Like ReactNative, we will still need to wait for every brand new mobile ability to be available via Dart [4] |
 
 ## References
 1. [Opinions of a Youtube blogger, 15 min](https://www.youtube.com/watch?v=-n5G48o2bxQ)
 2. [Big players that abandoned react native](https://adtmag.com/articles/2018/07/10/abandon-react-native.aspx)
 3. Quote: *"Flutter is built in a whole new way, compared to other frameworks, working more like a gaming engine, than a traditional application framework"*. Source: https://buildflutter.com/how-flutter-works.
+4. Quote: *Limited libraries*. Source: https://hackernoon.com/flutter-pros-and-cons-for-seamless-cross-platform-development-c81bde5a4083
