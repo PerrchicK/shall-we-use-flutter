@@ -22,7 +22,7 @@ Feel free to create PRs so we can contribute to this list. **Make sure you add r
 | Job security? Learn the technology of the future? | The developer feel good by developing in both platforms |
 |  | UX still won't feel 100% native |
 |  | Some of the reasons to aboned ReactNative are still might appear with Flutter [2] |
-
+|  | Like ReactNative, we will still need to wait for every brand new mobile ability to be available via Dart |
 
 ## References
 1. [Opinions of a Youtube blogger, 15 min](https://www.youtube.com/watch?v=-n5G48o2bxQ)
