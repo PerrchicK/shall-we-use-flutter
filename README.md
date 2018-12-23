@@ -4,11 +4,11 @@
 Hi,
 Thank you for your interest. As a mobile developer (of both platforms, iOS & Android) I'd like to get the best conclusion in the most fast and reliable way. I'd like to read your opinions (with references to facts if needed) while sharing them with the community.
 
-I'm doing an experimental note (only a draft for now) that shares all developers' opinions and why did they get to those conclusions.
+I made this experimental note that shares developers' opinions and why did they get to those conclusions.
 
 This list is simply a list of good and bad reasons to adopt Flutter in your business, you'll decide the weight of each reason according to your needs.
 
-Feel free to create PRs so we can contribute to this list. **Be sure to add references**, that way your point will be reliable.
+Feel free to create PRs so we can contribute to this list. **Make sure you add references**, that way your point will be reliable and not considered as an assumption.
 
 **Thank you for the cooperation** :)
 
@@ -25,6 +25,6 @@ Feel free to create PRs so we can contribute to this list. **Be sure to add refe
 
 
 ## References
-1. [Opinion](https://www.youtube.com/watch?v=-n5G48o2bxQ)
+1. [Opinions of a Youtube blogger, 15 min](https://www.youtube.com/watch?v=-n5G48o2bxQ)
 2. [Big players that abandoned react native](https://adtmag.com/articles/2018/07/10/abandon-react-native.aspx)
 
