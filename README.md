@@ -21,7 +21,7 @@ Feel free to create PRs so we can contribute to this list. **Make sure you add r
 | A native-like UX with good performace | Not the **best performace**, as it is using game engines and **mock** native controls [3] |
 | Job security? Learn the technology of the future? | The developer feel good by developing in both platforms |
 |  | UX still won't feel 100% native |
-|  | Some of the reasons to abandoned ReactNative are still might appear with Flutter [2] |
+|  | Some of the reasons to abandon ReactNative are still might appear with Flutter [2] |
 |  | Like ReactNative, we will still need to wait for every brand new mobile ability to be available via Dart [4] |
 
 ## References
